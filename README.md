@@ -33,8 +33,18 @@ Here the the links to troubleshoot the errors which will incurs while installing
 
 Clone the project from the the given repository [link](https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_II.git). 
 
-After cloning, configure the sources for building the project given below:
+After cloning, 
+
+* Configure the sources for building the project given below:
 ```sh
 cd planner/src
 ./build-instructions.txt 
 ```
+
+* Build the planner:
+```sh
+cd ../release
+make popf3-clp 
+```
+After compiling the *popf-tif planner* there will be an executable ***popf3-clp*** is created in the folder popf.
+
