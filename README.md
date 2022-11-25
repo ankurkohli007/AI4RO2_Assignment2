@@ -68,4 +68,4 @@ In our case, command to run the external solver is given below:
 ./popf3-clp -x /home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/dom1.pddl /home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/prob1.pddl /home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/modules/visitmodules/build/libVisits.so /home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/region_poses
 ```
 In the above command, 
-```sh /home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/dom1.pddl```
+```/home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/dom1.pddl```
