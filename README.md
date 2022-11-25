@@ -67,5 +67,4 @@ In our case, command to run the external solver is given below:
 ```sh
 ./popf3-clp -x /home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/dom1.pddl /home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/prob1.pddl /home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/modules/visitmodules/build/libVisits.so /home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/region_poses
 ```
-In the above command, 
-```/home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/dom1.pddl```
+In the aforementioned command, ```/home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/dom1.pddl``` is the path of *domain file* whereas, ```/home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/prob1.pddl``` is the path of *problem file*. Also, ```/home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/modules/visitmodules/build/libVisits.so``` is the path of external solver which contains ```.so``` file and lastly, ```/home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/region_poses``` is the path of file *region_poses* file which contain the mapping from a region to its corresponding waypoint.
