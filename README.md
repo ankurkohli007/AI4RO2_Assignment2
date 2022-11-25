@@ -6,4 +6,5 @@
 # AI4RO2_Assignment2: Task and Motion Planning
 The work is based on Task and Motion Planning which involves the demon- stration of a coffee shop. This deals with the movement of a mobile robot in a constrained environment.
 
-Requirements for the assignment [click here](https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_II/blob/master/Task%20Motion%20and%20Planning%20Assignemnt_Group%20I_Ankur%20Kohli_Awais%20Tahir_Subhransu%20Sourav%20Priyadarshan/Assignment2.pdf).
+* Requirements for the assignment [click here](https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_II/blob/master/Task%20Motion%20and%20Planning%20Assignemnt_Group%20I_Ankur%20Kohli_Awais%20Tahir_Subhransu%20Sourav%20Priyadarshan/Assignment2.pdf).
+* Report of the assignment [click here](https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_II/blob/master/Task%20Motion%20and%20Planning%20Assignemnt_Group%20I_Ankur%20Kohli_Awais%20Tahir_Subhransu%20Sourav%20Priyadarshan/Task%20Motion%20and%20Planning%20Assignemnt_Group%20I_Ankur%20Kohli_Awais%20Tahir_Subhransu%20Sourav%20Priyadarshan_Report.pdf).
