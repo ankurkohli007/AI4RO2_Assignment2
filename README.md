@@ -12,7 +12,7 @@ The work is based on Task and Motion Planning which involves the demon- stration
 
 ## Before building the project - dependencies
 
-Before running the project make sure the dependencies of the system.
+Before running the project make sure the dependencies on the system.
 
 **Compatibility**
 
@@ -26,5 +26,5 @@ The project uses the extensible temporal planner **popf-tif**. Here is the link 
 
 Here the the links to troubleshoot the errors which will incurs while installing the planner.
 
-[Link 1](https://github.com/popftif/popf-tif/issues/2)
+[Link 1](https://github.com/popftif/popf-tif/issues/2)<br>
 [Link 2](https://github.com/popftif/popf-tif/issues/1)
