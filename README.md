@@ -74,3 +74,17 @@ In the aforementioned command, ```/home/ankurkohli007/Desktop/AI4RO2/popf-tif/po
 By using the default PDDL problem and domain file here presented the default scenario, the results obtained from the planner "popf-tif" is given below:
 
 ![alt text](image1.png)
+
+After making a few changes , we get the following results:
+
+![alt text](image2.png)
+
+In figure below the change in cost value by the default scenario code (code givem as requiremnet file). In figure above the cost is 0.0 and after changes cost is 8.0 as shown in figure below:
+
+![alt text](image3.png)
+
+But tuning the distance-euc function in VisitSolver.cpp we calculated the actual cost i.e. Euclidian Distance between the two regions as shown in figure above.
+
+Finally, after calculation euclidian distance between two regions and we got the final distance in the terms of cost i.e. 10.485 which is shown below in figure:
+
+![alt text](image4.png)
