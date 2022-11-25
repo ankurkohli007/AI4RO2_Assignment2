@@ -20,4 +20,11 @@ The project is compatible with the ***Ubuntu version*** ***16.04*** & ***18.0***
 
 ## Popf-tif Planner
 
-The project uses the extensible temporal planner **popf-tif**. Here is the link to the [repository](https://github.com/popftif/popf-tif). 
+The project uses the extensible temporal planner **popf-tif**. Here is the link to the [repository](https://github.com/popftif/popf-tif) to install the popf-tif planner. 
+
+## Troubleshooting during installation 
+
+Here the the links to troubleshoot the errors which will incurs while installing the planner.
+
+[Link 1](https://github.com/popftif/popf-tif/issues/2)
+[Link 2](https://github.com/popftif/popf-tif/issues/1)
