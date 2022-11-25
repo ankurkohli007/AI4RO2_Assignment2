@@ -31,6 +31,8 @@ Here the the links to troubleshoot the errors which will incurs while installing
 
 ## Building and Running
 
+## Building
+
 Clone the project from the the given repository [link](https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_II.git). 
 
 After cloning, 
@@ -48,3 +50,20 @@ make popf3-clp
 ```
 After compiling the *popf-tif planner* there will be an executable ***popf3-clp*** is created in the folder popf.
 
+## Running
+
+Once bulding is done, now runn the planner by the following command:
+
+```sh
+./popf3-clp dom1.pddl prob1.pddl
+```
+
+To run the planner with the external solver:
+```sh
+./popf3-clp -x domainfile problemfile externalsolver [inputexternalsolver]
+```
+
+In our case, command to run the external solver is given below:
+```sh
+./popf3-clp -x /home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/dom1.pddl /home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/prob1.pddl /home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/modules/visitmodules/build/libVisits.so /home/ankurkohli007/Desktop/AI4RO2/popf-tif/popf-tif/domains/visits_domain/region_poses
+```
