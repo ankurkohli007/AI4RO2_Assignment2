@@ -16,6 +16,8 @@ Before running the project make sure the dependencies of the system.
 
 **Compatibility**
 
-The project is compatible with the ***Ubuntu version 16.04 & 18.0***. To instal **Ubuntu 16.04** follow the [link](https://ubuntu.com/tutorials/install-ubuntu-desktop-1604#1-overview) and for **Ubuntu 18.0** follow the [link](https://ubuntu.com/tutorials/install-ubuntu-desktop-1804#1-overview).
+The project is compatible with the ***Ubuntu version*** ***16.04*** & ***18.0***. To instal **Ubuntu 16.04** follow the [link](https://ubuntu.com/tutorials/install-ubuntu-desktop-1604#1-overview) and for **Ubuntu 18.0** follow the [link](https://ubuntu.com/tutorials/install-ubuntu-desktop-1804#1-overview). It doesn't work with **Ubuntu 20** or later version because of lack of retro-compatibility with some components needed to build and run the project.
 
+## Popf-tif Planner
 
+The project uses the extensible temporal planner **popf-tif**. Here is the link to the [repository](https://github.com/popftif/popf-tif). 
