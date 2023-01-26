@@ -24,7 +24,7 @@ The project uses the extensible temporal planner **popf-tif**. Here is the link 
 
 ## Troubleshooting during installation 
 
-* Here the the links to troubleshoot the errors which will incurs while installing the planner.
+* Here are the links to troubleshoot the errors which will incurs while installing the planner.
       <ul>
       <li>[Link 1](https://github.com/popftif/popf-tif/issues/2)</li>
       <li>[Link 2](https://github.com/popftif/popf-tif/issues/1)</li>
